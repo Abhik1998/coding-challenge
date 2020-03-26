@@ -62,7 +62,7 @@ If you want to take it a step further, enable your function to take a second arg
 
 ```JavaScript
 budgetToBills(1754, [20, 10, 5, 1]); // { 20: 87, 10: 1, 1: 4 }
-budgetToBills(1754, [100, 20, 50, 10, 5, 1]; // { 100: 17, 50: 1, 4: 1 }
+budgetToBills(1754, [100, 20, 50, 10, 5, 1]; // { 100: 17, 50: 1, 1: 4 }
 ```
 
 What if you someone passes in the wrong arguments?
